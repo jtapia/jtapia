@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-jtapia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)](https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-jtapia.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jtapia.dev@gmail.com)](mailto:jtapia.dev@gmail.com)
 
 ## Technologies
