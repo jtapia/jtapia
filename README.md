@@ -2,26 +2,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-jtapia.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jtapia.dev@gmail.com)](mailto:jtapia.dev@gmail.com)
 
-<!--
-**jtapia/jtapia** is a ✨ _special_ ✨ repository because itsjtapia.dev@gmail.com.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
 ![RubyOnRails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=RubyOnRails)
+![Solidus](https://img.shields.io/badge/-Solidus-black?style=flat-square&logo=solidus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![Stimulus](https://img.shields.io/badge/-Stimulus-black?style=flat-square&logo=Stimulus)
+![Turbo](https://img.shields.io/badge/-Turbo-black?style=flat-square&logo=Turbo)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
