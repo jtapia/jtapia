@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jtapia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)](https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)](https://www.linkedin.com/in/eduardo-jonathan-tapia/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-jtapia.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jtapia.dev@gmail.com)](mailto:jtapia.dev@gmail.com)
 
 ## Technologies
@@ -27,3 +28,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=python)
 ![Sidekiq](https://img.shields.io/badge/-Sidekiq-black?style=flat-square&logo=sidekiq)
+
+<!---
+## Github Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jtapia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jtapia&hide_border=true" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtapia&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
+-->
