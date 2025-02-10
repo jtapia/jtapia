@@ -37,4 +37,50 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jtapia&hide_border=true" />
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtapia&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
+
+ ## Tools (I have experience on)
+             
+| Version Control                | Continuous Integration               | Automated Testing                          |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • Git Lab                      | • Jenkins                            | • Selenium                                 |
+| • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
+| • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
+|                                | • Git Lab                            | • PostMan (API testing)                    |
+|                                | • Git Hub Action                     |                                            |
+|                                |                                      |                                            | 
+       
+     
+| Continuous Deployment          | DevSecOps                            | Automation                                 |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • Azure DevOps                 | • Qualys                             | • Terraform (IAAC)                         |
+| • GitLab                       | • CodeQL Analysis                    | • Ansible                                  |
+| • Code Deploy                  | • snyk                               | • Pulumi                                   |
+| • Octopus                      | • Sqreen                             | • MAAS (Ubuntu)                            |
+| • Ansible                      |                                      |                                            |
+| • Spinnaker                    |                                      |                                            |
+      
+      
+| Cloud Computing                | Container Technology &emsp; &emsp;   | Operating System                           |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • AWS                          | • EKS/ECS                            | • Windows                                  |
+| • Azure                        | • OpenShift                          | • Red Hat                                  |
+| • GCP                          | • Docker                             | • Suse                                     |
+| • OpenStack                    | • Kubernetes                         | • Ubuntu                                   |
+|                                | • AKS/ACS                            | • Kali Linux                               |
+|                                |                                      | • Mac OS                                   |
+                                                                                                                      
+                                                                                                                      
+| Network Tools                  | Monitoring tools                     | Log management                             | 
+|--------------------------------|--------------------------------------|--------------------------------------------|
+|:---                            |:---                                  |:---                                        |
+| • Wire shark                   | • PRTG                               | • ELK                                      |
+| • Tcpdump                      | • Prometheus                         | • FluentD                                  |
+|                                | • Zabbix                             | • Splunk                                   |
+|                                | • Netwrix Auditor                    |                                            |
+|                                | • Sensu                              |                                            |  
+      
 -->
+
